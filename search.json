@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah G. Kachouroff",
+    "section": "",
+    "text": "A little bit about me and my life."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sarah G. Kachouroff",
+    "section": "Education",
+    "text": "Education\nBaylor University, Waco, TX | June 2024 - Present"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sarah G. Kachouroff",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "index.html#volunteer-work",
+    "href": "index.html#volunteer-work",
+    "title": "Sarah G. Kachouroff",
+    "section": "Volunteer Work",
+    "text": "Volunteer Work"
+  }
+]
